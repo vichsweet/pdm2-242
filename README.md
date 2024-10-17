@@ -1,1 +1,1 @@
-# pdm2-242
+# Repositório destinado à matéria de pdm2 no IFCE
